@@ -1,0 +1,15 @@
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\bin\Debug\netcoreapp3.1\TestWinFormCoreApp.exe
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\bin\Debug\netcoreapp3.1\TestWinFormCoreApp.deps.json
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\bin\Debug\netcoreapp3.1\TestWinFormCoreApp.runtimeconfig.json
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\bin\Debug\netcoreapp3.1\TestWinFormCoreApp.runtimeconfig.dev.json
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\bin\Debug\netcoreapp3.1\TestWinFormCoreApp.dll
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\bin\Debug\netcoreapp3.1\TestWinFormCoreApp.pdb
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.csprojAssemblyReference.cache
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.AssemblyInfoInputs.cache
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.AssemblyInfo.cs
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.dll
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.pdb
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.genruntimeconfig.cache
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.Form1.resources
+C:\Users\sachin.kumar\source\repos\TestWinFormCoreApp\TestWinFormCoreApp\obj\Debug\netcoreapp3.1\TestWinFormCoreApp.csproj.GenerateResource.cache
