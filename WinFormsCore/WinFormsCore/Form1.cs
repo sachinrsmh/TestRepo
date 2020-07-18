@@ -19,7 +19,12 @@ namespace WinFormsCore
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Clicked Now");
+            MessageBox.Show(this.textBox1.Text + "  Clicked Now");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
