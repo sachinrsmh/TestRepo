@@ -1,0 +1,10 @@
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\bin\Debug\WinFormsCore.exe.config
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\bin\Debug\WinFormsCore.exe
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\bin\Debug\WinFormsCore.pdb
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\obj\Debug\WinFormsCore.csprojAssemblyReference.cache
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\obj\Debug\WinFormsCore.Form1.resources
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\obj\Debug\WinFormsCore.Properties.Resources.resources
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\obj\Debug\WinFormsCore.csproj.GenerateResource.cache
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\obj\Debug\WinFormsCore.csproj.CoreCompileInputs.cache
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\obj\Debug\WinFormsCore.exe
+C:\Users\sachin.kumar\Documents\GitHub\TestRepo\WinFormsCore\WinFormsCore\obj\Debug\WinFormsCore.pdb
