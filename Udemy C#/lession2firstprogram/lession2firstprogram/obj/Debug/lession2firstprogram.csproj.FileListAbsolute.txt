@@ -1,9 +1,0 @@
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\bin\Debug\lession2firstprogram.exe.config
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\bin\Debug\lession2firstprogram.exe
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\bin\Debug\lession2firstprogram.pdb
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\obj\Debug\lession2firstprogram.csprojAssemblyReference.cache
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\obj\Debug\lession2firstprogram.Properties.Resources.resources
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\obj\Debug\lession2firstprogram.csproj.GenerateResource.cache
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\obj\Debug\lession2firstprogram.csproj.CoreCompileInputs.cache
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\obj\Debug\lession2firstprogram.exe
-C:\Users\sachin.kumar\source\repos\Udemy C#\lession2firstprogram\lession2firstprogram\obj\Debug\lession2firstprogram.pdb
