@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K51Tv9DmaR507zbRkhyZ5zH9z8Ot7vOLV97OTqPL6hsWh2lCFgD9XtWBW6zgU49NJs7sUq4o5tStelU/xUCX+g==",
+  "dgSpecHash": "sxdqKYgGnAFPn4mgrg+7/9684jva0NQwYUhs1vtqPrjpBzxAz9GeRpEt96dkakeKg956m3y7h2RaIykaf8ZwoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sachin.kumar\\source\\repos\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "C:\\Users\\sachin.kumar\\Documents\\GitHub\\TestRepo\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sachin.kumar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
